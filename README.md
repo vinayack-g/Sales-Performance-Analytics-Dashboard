@@ -128,8 +128,6 @@ Bachelor of Technology
 Computer Science and Engineering
 PACE Institute of Technology and Sciences
 
-GitHub: https://github.com/vinayack-g
-
 Tableau Public: https://public.tableau.com/app/profile/vinayack.g
 
 ---
